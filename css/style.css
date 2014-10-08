@@ -1,0 +1,35 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-color: #0059a4;
+}
+
+.no-pad {
+	padding: 0 !important;
+}
+
+.logo {
+
+	width: 100%;
+}
+
+.box {
+	border: 1px solid white;
+	border-radius: 7px;
+	padding:0;
+} 
+
+.padded {
+
+	padding: 0 5%;
+}
+
+.box h6 {
+	font-size: 12px;
+	font-style: bold;
+	
+}
+
+.footer p {
+	line-height: 5px;
+}
